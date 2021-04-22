@@ -10,7 +10,7 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-5409
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="NASIONAL", Indosiar
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-205
-#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="NASIONAL", SCTV HD
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="NASIONAL", SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1619132453~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=be7a9243f02cad0e526841a9a0cb6c972535868cf6ea85c437ada57ffc7c83fc/vp9/204/primary/720p/v-720p-1618195995-922557083000.webm
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
