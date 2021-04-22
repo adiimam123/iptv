@@ -1,0 +1,127 @@
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL", TVRI
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6441
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL", RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL", MNC TV
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL", Global TV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL", Inews
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-5409
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL", Indosiar
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-205
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL", SCTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL", NetTV
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-875
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL", TVONE 
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOKAL", ANTV
+http://chostv.mobie.in/files/iptv/antv.m3u8
+#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL", Kompas
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-874
+#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL", MetroTV
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-777
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL", Rajawali TV
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-1561
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", prambors
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7004
+#EXTINF:-1 tvg-id="hardrock" tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="RADIO ONLINE", Hardrock
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7053
+#EXTINF:-1 tvg-id="brava" tvg-logo="https://i.ibb.co/HVQsRd0/brava.png" group-title="RADIO ONLINE", Brava
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7054
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxSrPHd/trax.png" group-title="RADIO ONLINE", Trax
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7055
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7gmbM2/cosmo.png" group-title="RADIO ONLINE", Cosmopolitan
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkF1bDh/iradio.png" group-title="RADIO ONLINE", I-Radio
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7057
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hMMrSNj/bahana.png" group-title="RADIO ONLINE", Bahana
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7091
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Smc4p9D/deltafm.png" group-title="RADIO ONLINE", Delta
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7092
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKdd9cv/female.png" group-title="RADIO ONLINE", Female
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7130
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYGvYtz/elshinta.png" group-title="RADIO ONLINE", Elshinta
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7166
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3DRdwj/elgangga.png" group-title="RADIO ONLINE", Elgangga
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7169
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pwmgtsx/elmitra.png" group-title="RADIO ONLINE", Elmitra
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7170
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHdNWYt/ardanfm.png" group-title="RADIO ONLINE", Ardan
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7184
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="RADIO ONLINE", MGT
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7188
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="RADIO ONLINE", Geronimo
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7216
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="RADIO ONLINE", Sushi
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7218
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="RADIO ONLINE", Dahlia
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7242
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="RADIO ONLINE", Swaragama
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7248
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="RADIO ONLINE", Imelda
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7281
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="RADIO ONLINE", Swara Semarang
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7283
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="RADIO ONLINE", Gajahmada
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7284
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="RADIO ONLINE", Cakra
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7297
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="RADIO ONLINE", Gen Jakarta
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7443
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="RADIO ONLINE", Kis
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7445
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jCXChY/gensuabaya.png" group-title="RADIO ONLINE", Gen Surabaya
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7446
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWXJGSW/mustang-fm.png" group-title="RADIO ONLINE", Mustang
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7447
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="RADIO ONLINE", Hot 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7448
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="RADIO ONLINE", Jak
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7449
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="RADIO ONLINE", Most Radio
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7450
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="RADIO ONLINE"
+https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI", Citra Muslim
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6678
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI", Rodja TV 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-rodjatv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI", Tawaf TV 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-tawaftv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI", MTA TV 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-mtatv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-muitv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", AL Quran AL Kareem 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-alquran
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-tv9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", Muhammadiyah TV 
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-muhammadiyahtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", Ajwa TV
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7464
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="RELIGI", AL Quran AL Kareem
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6852
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", Reformed 21
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="RELIGI", U Channel
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6898
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="RELIGI", Mekkah tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619090572/ei/LAiBYIKpA4K2mgeBm7-oBQ/ip/103.78.114.81/id/SMNHZR1u6KQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM2xBeusOb9y--sKBwPqhF-8CoX_r99tH0Ob87_3ThTQAiEAzR6zL0evNfOzb7eeYOoy0xAQfHrCVILqbLFJIkW6TXQ%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="RELIGI", Madinah tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619093544/ei/yBOBYJPlEZrTz7sP_uagsAc/ip/103.78.114.81/id/lqSZmi0LLtU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNcUgL7RL0C4ltIAEvPMRr2tR3TDIgAUIbpJz2r2qtYoCIQDS7jIJyDk0jdLHnrD45WZU3d8EPopLMax0DBwjtVQ-qw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2hRSX4/hbo-logo.jpg" group-title="MOVIES",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZWyqtG/hbohits-logo.jpg" group-title="MOVIES",HBO HITS
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhZWyqtG/hbohits-logo.jpg" group-title="MOVIES",HBO xxx
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
