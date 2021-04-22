@@ -158,3 +158,5 @@ plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
 plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="AV",EnglishClass101 TV (Words and Expressions) (YT)
 plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (YT)
+plugin://plugin.video.youtube/play/?video_id=cPpjl9WC1YE
