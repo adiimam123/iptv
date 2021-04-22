@@ -131,7 +131,7 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.postimg.cc/Y0j8zrdL/Animal-Planet-New.png" group-title="KNOWLEDGE", Animal Planet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="KNOWLEDGE", Discovery
-http://185.71.64.167:80/live/0637168846/7088664803/79564.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPY7WczYYTtDR9oohaH389pAGVrgYlGtP7RdWGTg=s48-c-k-c0x00ffffff-no-rj" group-title="KIDS", WOLFO
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619091090/ei/MgqBYKSMJYLY3LUPl6-4uAg/ip/103.78.114.81/id/7tbMIxKaWvw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZM8qvqjVmlb52-rFneTWiA0ANbt7Hu0ifbBGzC5JFAwCICQsSzj7-V04DgGidV8UvfFUmUYeHY-eKV1e_8OyE-zn/file/index.m3u8
