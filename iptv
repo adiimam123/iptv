@@ -130,7 +130,7 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.postimg.cc/Y0j8zrdL/Animal-Planet-New.png" group-title="KNOWLEDGE", Animal Planet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="KNOWLEDGE", Discovery Channel
+#EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="KNOWLEDGE", Discovery
 http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4ed5b9ff5be02ec7f32ecf3ec96c51f124
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPY7WczYYTtDR9oohaH389pAGVrgYlGtP7RdWGTg=s48-c-k-c0x00ffffff-no-rj" group-title="KIDS", WOLFO
