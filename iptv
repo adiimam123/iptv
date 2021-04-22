@@ -127,20 +127,6 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6BwdC7/hbofamily-logo.jpg" group-title="MOVIES",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Action Movies FHD
-https://nonton.site:8443/provision/pp/1478
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Action Movies HD
-https://nonton.site:8443/provision/pp/99
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Crime HD
-https://nonton.site:8443/provision/pp/763
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Family Movies ID
-https://nonton.site:8443/provision/pp/14994
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX HD
-https://nonton.site:8443/provision/pp/95
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Life HD
-https://nonton.site:8443/provision/pp/94
-#EXTINF:-1 tvg-logo="#" group-title=" MOVIES",FOX Movies HD
-https://nonton.site:8443/provision/pp/98
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="KNOWLEDGE", Animal
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
