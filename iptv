@@ -154,6 +154,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619092195/ei/g
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="AV",EnglishClass101 TV (Speaking Practice) (YT)
 plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="AV",EnglishClass101 TV (Words and Expressions) (YT)
+plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="AV",EnglishClass101 TV (Words and Expressions) (YT)
 plugin://plugin.video.youtube/play/?video_id=dNP--eBGmFI
