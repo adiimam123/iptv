@@ -127,14 +127,12 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6BwdC7/hbofamily-logo.jpg" group-title="MOVIES",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Family Movies
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Life
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Movies HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="KNOWLEDGE", Animal
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
