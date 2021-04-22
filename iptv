@@ -127,12 +127,20 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6BwdC7/hbofamily-logo.jpg" group-title="MOVIES",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", Fox Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="KNOWLEDGE", Animal
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://i.imgur.com/lB0VeoB.png" group-title="KNOWLEDGE", Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="" group-title="KNOWLEDGE", National Geo WILD
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/7289?source:iptvmate.net
