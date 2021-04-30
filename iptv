@@ -129,6 +129,14 @@ https://nonton.site:8443/provision/pp/763
 https://nonton.site:8443/provision/pp/14994
 #EXTINF:-1 tvg-logo="" group-title="MOVIES TV",FOX Action Movies
 https://nonton.site:8443/provision/pp/99
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197972
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO Family
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO Signature
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221948
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Cinemax
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197964
 
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="KNOWLEDGE", Animal
