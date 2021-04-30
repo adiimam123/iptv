@@ -125,8 +125,11 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX Crime
 https://nonton.site:8443/provision/pp/763
-#EXTINF:-1   tvg-logo="" group-title="MOVIES",FOX Family Movies
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX Family Movies
 https://nonton.site:8443/provision/pp/14994
+#EXTINF:-1 tvg-logo="" group-title="MOVIES TV",FOX Action Movies
+https://nonton.site:8443/provision/pp/99
+
 
 #EXTINF:-1 tvg-ID=AnimalPlanet.id tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="KNOWLEDGE", Animal
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
