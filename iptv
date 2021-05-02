@@ -9,7 +9,7 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="NASIONAL", Inews
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="NASIONAL", Indosiar
-http://210.210.155.35/session/08b5c54e-ab2c-11eb-8209-c81f66f89318/qwr9ew/s/s04/01.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="NASIONAL", SCTV HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="NASIONAL", TRANS TV
@@ -21,13 +21,13 @@ https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-875
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="NASIONAL", TVONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="NASIONAL", ANTV
-http://chostv.mobie.in/files/iptv/antv.m3u8
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="NASIONAL", Kompas
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-874
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="NASIONAL", MetroTV
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-777
+https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y14bBmA1R2k2V7J9fb13mKGKzxngbKBpZBJx32ECIgluQntef-txKA6mUBKAtJ2YyMOg
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="NASIONAL", Rajawali TV
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-1561
+http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", prambors
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-7004
