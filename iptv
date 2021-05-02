@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="NASIONAL", TVRI
 http://210.210.155.35/session/0452e346-ab37-11eb-aa6b-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="NASIONAL", RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/skrz1j8exe/rcti2_576p/chunks.m3u8?nimblesessionid=296434388&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjEgMTI6NTI6MjcgUE0maGFzaF92YWx1ZT0yc0NjYzlvM0s5bXVlQ3N6eTRVU3hnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTI1ODIzODQ0fDEwMy43OC4xMTQuMTkz
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="NASIONAL", MNC TV
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="NASIONAL", Global TV
