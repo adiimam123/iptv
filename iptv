@@ -9,9 +9,9 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="NASIONAL", Inews
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="NASIONAL", Indosiar
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="NASIONAL", SCTV HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="NASIONAL", TRANS 7
