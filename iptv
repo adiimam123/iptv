@@ -29,7 +29,7 @@ https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y1
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="NASIONAL", Rajawali TV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", prambors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", Prambors
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_7004_480p/index.m3u8
 #EXTINF:-1 tvg-id="hardrock" tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="RADIO ONLINE", Hardrock
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_7053_480p/index.m3u8
