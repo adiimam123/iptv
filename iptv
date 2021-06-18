@@ -23,7 +23,7 @@ http://210.210.155.35:80/session/2447653c-4a84-11eb-8e17-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="NASIONAL", ANTV
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="NASIONAL", Kompas
-https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
+http://210.210.155.35/session/81669062-d008-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="NASIONAL", MetroTV
 https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y14bBmA1R2k2V7J9fb13mKGKzxngbKBpZBJx32ECIgluQntef-txKA6mUBKAtJ2YyMOg
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="NASIONAL", Rajawali TV
