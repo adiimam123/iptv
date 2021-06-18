@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="NASIONAL", TVRIx
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="NASIONAL", TVRI
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6441
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="NASIONAL", RCTI
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-665
