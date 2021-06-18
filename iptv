@@ -1,10 +1,3 @@
-#EXTINF:-1 group-title="TES Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI [Me-Tv]
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV [Me-Tv]
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="NASIONAL", TVRI
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6441
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="NASIONAL", RCTI
