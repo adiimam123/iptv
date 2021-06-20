@@ -84,6 +84,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-id="daaitv" tvg-logo="https://i.postimg.cc/761GcFrH/daai-tv.png" group-title="INDONESIA",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #--------" RADIO + "--------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", Prambors
