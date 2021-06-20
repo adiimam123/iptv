@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="NASIONAL", TVRI
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="NASIONAL", RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="NASIONAL", MNC TV
@@ -9,15 +9,15 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="NASIONAL", Inews
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="NASIONAL", Indosiar
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-205
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="NASIONAL", SCTV HD
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-204
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="NASIONAL", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="NASIONAL", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="NASIONAL", NetTV
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-875
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="NASIONAL", TVONE 
 http://210.210.155.35:80/session/2447653c-4a84-11eb-8e17-b82a72d63267/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=tvOne
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="NASIONAL", ANTV
@@ -30,68 +30,68 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="RADIO ONLINE", Prambors
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7004
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7004
 #EXTINF:-1 tvg-id="hardrock" tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="RADIO ONLINE", Hardrock
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7053
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7053
 #EXTINF:-1 tvg-id="brava" tvg-logo="https://i.ibb.co/HVQsRd0/brava.png" group-title="RADIO ONLINE", Brava
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7054
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7054
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxSrPHd/trax.png" group-title="RADIO ONLINE", Trax
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7055
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7055
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J7gmbM2/cosmo.png" group-title="RADIO ONLINE", Cosmopolitan
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7056
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7056
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QkF1bDh/iradio.png" group-title="RADIO ONLINE", I-Radio
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7057
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7057
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hMMrSNj/bahana.png" group-title="RADIO ONLINE", Bahana
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7091
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7091
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Smc4p9D/deltafm.png" group-title="RADIO ONLINE", Delta
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7092
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7092
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KKdd9cv/female.png" group-title="RADIO ONLINE", Female
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7130
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7130
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYGvYtz/elshinta.png" group-title="RADIO ONLINE", Elshinta
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7166
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7166
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3DRdwj/elgangga.png" group-title="RADIO ONLINE", Elgangga
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7169
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7169
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pwmgtsx/elmitra.png" group-title="RADIO ONLINE", Elmitra
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7170
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7170
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHdNWYt/ardanfm.png" group-title="RADIO ONLINE", Ardan
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7184
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7184
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="RADIO ONLINE", MGT
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7188
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7188
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="RADIO ONLINE", Geronimo
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7216
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7216
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="RADIO ONLINE", Sushi
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7218
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7218
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="RADIO ONLINE", Dahlia
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7242
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7242
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="RADIO ONLINE", Swaragama
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7248
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7248
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="RADIO ONLINE", Imelda
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7281
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7281
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="RADIO ONLINE", Swara Semarang
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7283
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7283
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="RADIO ONLINE", Gajahmada
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7284
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7284
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="RADIO ONLINE", Cakra
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7297
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7297
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="RADIO ONLINE", Gen Jakarta
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7443
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7443
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="RADIO ONLINE", Kis
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7445
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7445
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jCXChY/gensuabaya.png" group-title="RADIO ONLINE", Gen Surabaya
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7446
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7446
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWXJGSW/mustang-fm.png" group-title="RADIO ONLINE", Mustang
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7447
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7447
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="RADIO ONLINE", Hot 
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7448
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7448
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="RADIO ONLINE", Jak
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7449
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7449
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="RADIO ONLINE", Most Radio
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7450
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7450
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="RADIO ONLINE"
 https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI", Citra Muslim
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6678
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6678
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI", Rodja TV 
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGI",AL-BAHJAH TV
@@ -101,7 +101,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV 
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muitv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", AL Quran AL Kareem 
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU 
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tv9
 #EXTINF:-1 tvg-logo="https://nuchannel.tv/media/img-logo.jpeg" group-title="RELIGI" ,NU Channel
@@ -109,11 +109,11 @@ http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", Muhammadiyah TV 
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muhammadiyahtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", Ajwa TV
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7464
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7464
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", Reformed 21
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6853
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6853
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="RELIGI", U Channel
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6898
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6898
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="RELIGI", Mekah tv
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="RELIGI", Madinah tv
