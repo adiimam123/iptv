@@ -352,11 +352,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #https://znjjprwzgeyyp.vidio.com/live/6550/master.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6550
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwGKL9TK/TLC.png" group-title="KNOWLEDGE",TLC 
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/165086
-#http://185.180.221.194:8278/streams/d/TLC/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwGKL9TK/TLC.png" group-title="KNOWLEDGE",TLC [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
