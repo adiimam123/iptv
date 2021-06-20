@@ -321,10 +321,6 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6635
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYTL575f/MOTV.png" group-title="KNOWLEDGE",MOTV
 #http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/78
 
-#EXTINF:-1 tvg-id="natgeopeople" tvg-logo="https://i.postimg.cc/QMNjp6xN/logo-natgeopeople-big.png" group-title="KNOWLEDGE",NATGEO PEOPLE [Usee]
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==natgeopeople&b=15&c=natgeopeople
-
 #EXTINF:-1 tvg-id="natgeopeople" tvg-logo="https://i.postimg.cc/QMNjp6xN/logo-natgeopeople-big.png" group-title="KNOWLEDGE",NATGEO PEOPLE [VSN+]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
