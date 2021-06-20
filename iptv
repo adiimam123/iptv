@@ -93,21 +93,21 @@ https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI", Citra Muslim
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6678
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI", Rodja TV 
-https://fikrulmkc.my.id/bagus/usee-rodjatv.m3u8
+https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821807
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGI",AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI", MTA TV 
-https://fikrulmkc.my.id/bagus/usee-mtatv.m3u8
+https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821805
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV 
-https://fikrulmkc.my.id/bagus/usee-muitv.m3u8
+https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821799
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", AL Quran AL Kareem 
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU 
-https://fikrulmkc.my.id/bagus/usee-tv9.m3u8
+https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821800
 #EXTINF:-1 tvg-logo="https://nuchannel.tv/media/img-logo.jpeg" group-title="RELIGI" ,NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", Muhammadiyah TV 
-https://fikrulmkc.my.id/bagus/usee-muhammadiyahtv.m3u8
+https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821806
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", Ajwa TV
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7464
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", Reformed 21
