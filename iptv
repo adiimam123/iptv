@@ -97,7 +97,7 @@ http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGI",AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI", MTA TV 
-https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821805
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI", MUI TV 
 https://m3u-editor.com/serve/b34ffce0-c1c0-11eb-837a-a79603a01ccf/306821799
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", AL Quran AL Kareem 
