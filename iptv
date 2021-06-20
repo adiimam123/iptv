@@ -224,11 +224,6 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovie
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/DZG60DtB/10626679-ico.png" group-title="HBO And FOX",FOX MOVIES [VSN+]
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0SbgYPK/10626649-ico.png" group-title="HBO And FOX",FOX CRIME 
-#http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/1
-#https://nonton.site:8443/provision/pp/763
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/N0SbgYPK/10626649-ico.png" group-title="HBO And FOX",FOX CRIME [VSN+]
