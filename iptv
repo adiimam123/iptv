@@ -25,7 +25,7 @@ http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="NASIONAL", Kompas
 http://210.210.155.35/session/81669062-d008-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="NASIONAL", MetroTV
-https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y14bBmA1R2k2V7J9fb13mKGKzxngbKBpZBJx32ECIgluQntef-txKA6mUBKAtJ2YyMOg
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="NASIONAL", Rajawali TV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
@@ -118,65 +118,3 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6898
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6852
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="RELIGI", Madinah tv
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Fox Movies
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Fox Life
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX Crime
-https://nonton.site:8443/provision/pp/763
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX Family Movies
-https://nonton.site:8443/provision/pp/14994
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX Action Movies
-https://nonton.site:8443/provision/pp/99
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197972
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO Family
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", HBO Signature
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221948
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Cinemax
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197964
-
-#EXTINF:-1  group-title="KNOWLEDGE", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANIMAL PLANET
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
-#EXTINF:-1  group-title="KNOWLEDGE",Animal Planet HD
-https://nonton.site:8443/6894864475/7163819284/358 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="KNOWLEDGE", History 
-http://iptvtree.net:8080/test-220471/4008/162519
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic
-http://iptvtree.net:8080/test-220471/4008/197966
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic (V)
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="KNOWLEDGE", Nat Geo People 
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="KNOWLEDGE", Nat Geo Wild 
-http://iptvtree.net:8080/test-220471/4008/174724
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="KNOWLEDGE", Nat Geo Wild (V)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="KNOWLEDGE",Discovery Asia (V)
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Asia
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197968
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation 
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165052
-#EXTINF:-1 group-title="KNOWLEDGE",Eat & Go
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264765
-#EXTINF:-1 group-title="KNOWLEDGE",Asian Food Network (V)
-http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",CGTN DOCUMENTARY
-http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",HGTV
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/19
-#EXTINF:-1 group-title="KNOWLEDGE",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", TLC
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165086
