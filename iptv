@@ -363,11 +363,11 @@ http://146.59.187.3:8080/live/Q9VxZawp83/icjSyTQ63d/57906.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 2
 http://91.126.141.13:1935/live/61/6000-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 3
-http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 4
-http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=linksports
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 5
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 4
+https://hls-origin241.showroom-cdn.com/liveedge/5373da1671daa9c2f43360e95efeb5691106b10ba07f30f53b9d543e1d96b4ef_source/chunklist.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=7385d17563c09be535df6e9edcd370cdf9af15bffa8exWEBx6963x1624388602&t=1624388602496&abd=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 5
+https://05bce4580d95b32a.mediapackage.ap-southeast-1.amazonaws.com/out/v1/05ba218e2d184c91876c9cb879331a82/index_3.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=2967486e001d2a7c865b7d711aa6f6041d07e6b4d779xWEBx6945x1624388390&session_data=1&preview=1&t=1624388414996
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 6
 https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=de7bde40b6c8fd15c76d079c0c6577ce27a737f9b917xWEBx6944x1624209428&session_data=1&preview=1&t=1624209438460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 7
