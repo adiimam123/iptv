@@ -172,7 +172,8 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://nuchannel.tv/media/img-logo.jpeg" group-title="RELIGI" ,NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", Muhammadiyah TV 
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muhammadiyahtv
+#http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muhammadiyahtv
+http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", Ajwa TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7464
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI", Reformed 21
