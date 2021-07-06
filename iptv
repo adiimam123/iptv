@@ -369,11 +369,11 @@ http://91.126.141.13:1935/live/61/6000-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 3
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 4
-https://hls-origin246.showroom-cdn.com/liveedge/7266d512396122635d96a6838ee08b84a0e027a43c25dca1deab26db664c9567_source/chunklist.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=6a234953aecdd45e0869a9de3b23ca56631d7b3f7154xWEBx6954x1624475845&t=1624475846276&abd=1
+https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index_3.m3u8?t=1625598499743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 5
-https://hls-origin276.showroom-cdn.com/liveedge/c94b11d8d93e48ac00371f4f96404903eab2fa59e4cb74aad361ed4fbb7cc66a_source/chunklist.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=56a3171d9bc62905f3b91c03d51f4473ec24773c72f9xWEBx6954x1624475921&session_data=1&preview=1&t=1624475921609
+https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=d2543f0afd537d5135f7213bb353fe7d809a3a782df9xWEBx7018x1625598456&t=1625598457541&abd=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 6
-https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8?partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&from=iframe-legacy&vsid=de7bde40b6c8fd15c76d079c0c6577ce27a737f9b917xWEBx6944x1624209428&session_data=1&preview=1&t=1624209438460
+https://d1h77pdbzvllk0.cloudfront.net/out/v1/f13b787c6409485c99a47ca714bdf9d4/index_3.m3u8?t=1625598463736
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 7
 https://doxyqy0hfl734.cloudfront.net/out/v1/c09c09c9b1654b76817c8a11c7922d8d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/255px-UEFA_Euro_2020_Logo.png" group-title="EURO LIVE", SERVER 8
