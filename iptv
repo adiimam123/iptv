@@ -391,4 +391,5 @@ https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/in
 
 #--------" YOUTUBELIVE "--------
 #EXTINF:-1 tvg-id="kompastv" tvg-logo="https://i.postimg.cc/4yb66Kx1/kompas-tv.png" group-title="YOUTUBE",KOMPAS TV 
-https://iptv--iptv.repl.co/youtube_dl?url=https://www.youtube.com/watch?v=8o49U8xAfZ4
+#https://iptv--iptv.repl.co/youtube_dl?url=https://www.youtube.com/watch?v=8o49U8xAfZ4
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/AlRassoulChannel/live
