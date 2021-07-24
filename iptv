@@ -288,9 +288,6 @@ http://rr3.dens.tv/s/s113/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="KNOWLEDGE",DISCOVERY ASIA 
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="disco" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL [Usee]
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==disco&b=15&c=disco
-
 #EXTINF:-1 tvg-id="disco" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL 
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 
