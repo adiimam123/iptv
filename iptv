@@ -184,19 +184,19 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6852-al-qur
 https://akamai.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 
+#EXTINF:-1 group-title="Religi" tvg-logo="https://tvmu.tv/uploads/logo/logo_60a4754d6641d.png",Muhammadiyah TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Religi" tvg-logo="https://static.mncnow.id/images/channel/b8990cfe/3fd8_r32.jpg", Muhammadiyah TV
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.useetv.com/pimages/logo_tawaftv_small.png", TawafTV Vision +
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://nuchannel.tv/media/img-logo.jpeg" group-title="RELIGI" ,NU Channel
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Religi" tvg-logo="https://static.mncnow.id/images/channel/ae37c6fd/f9c3_r32.jpg", TawafTV Vision +
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI", Ajwa TV
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/7464-ajwa-tv
