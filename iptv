@@ -177,8 +177,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 http://dituduhmaling.xyz/US33T4/muitv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI", AL Quran AL Kareem 
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6852-al-quran-al-kareem-tv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI", TV9 NU 
-http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png",TV9 NU
+https://akamai.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://nuchannel.tv/media/img-logo.jpeg" group-title="RELIGI" ,NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI", Muhammadiyah TV 
